@@ -28,7 +28,7 @@
         </nav>
     </header>
     <div class='form-container'>
-        <form method="post" onsubmit="grades_validation()" id='login-form'>
+        <form method="post" onsubmit="add_grades()" id='login-form'>
             <div class='heading'>
                 <h2>Add Grades</h2>
             </div>

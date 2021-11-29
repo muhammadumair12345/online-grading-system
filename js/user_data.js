@@ -15,3 +15,7 @@ function logout() {
     localStorage.removeItem('User');
 }
 
+async function add_grades() {
+
+}
+
